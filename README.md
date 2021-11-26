@@ -1,1 +1,1 @@
-# apar
+{"video":{"playeradvertcornel":"","has_comment":"yes","has_comment_txt":"","size":null,"file_link":"","watch_action":{"type":"login","txt":"\u0628\u0631\u0627\u06cc \u062a\u0645\u0627\u0634\u0627\u06cc \u0627\u06cc\u0646 \u0648\u06cc\u062f\u06cc\u0648 \u0644\u0627\u06af\u06cc\u0646 \u06a9\u0646\u06cc\u062f."},"cost_type":[],"can_download":false,"like_cnt":0,"follow_link":null,"follow_status":null,"ip_address":"88.99.149.170"}}
